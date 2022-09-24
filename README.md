@@ -4,11 +4,10 @@
   - GoLang
   - Rust
   - WebAssembly
-- 🌱 I’m currently learning:
+## 🌱 I’m currently learning:
   -- Rust+WebAssembly
   -- Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me srikantgudi@gmail.com
+### 📫 How to reach me srikantgudi@gmail.com
 
 <!---
 srikantgudi/srikantgudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
