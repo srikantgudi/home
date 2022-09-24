@@ -10,7 +10,7 @@
   - Rust+WebAssembly
   - Golang
 
-### 📫 How to reach me srikantgudi@gmail.com
+### 📫 Reach me @ *srikantgudi@gmail.com*
 
 <!---
 srikantgudi/srikantgudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
