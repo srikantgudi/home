@@ -1,6 +1,12 @@
 # 👋 Hi, I’m @Srikant Gudi
-## 👀 I’m interested in Svelte/SvelteKit, GoLang, Rust, WebAssembly
-- 🌱 I’m currently learning Rust+WebAssembly
+## 👀 I’m interested in:
+  - Svelte/SvelteKit
+  - GoLang
+  - Rust
+  - WebAssembly
+- 🌱 I’m currently learning:
+  -- Rust+WebAssembly
+  -- Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me srikantgudi@gmail.com
 
