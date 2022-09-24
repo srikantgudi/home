@@ -4,9 +4,11 @@
   - GoLang
   - Rust
   - WebAssembly
+
 ## 🌱 I’m currently learning:
   - Rust+WebAssembly
   - Golang
+
 ### 📫 How to reach me srikantgudi@gmail.com
 
 <!---
