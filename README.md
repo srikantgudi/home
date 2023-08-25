@@ -11,8 +11,8 @@
   - SolidJs
 
 ## My Demo Apps at [Frontendmentor.io](https://frontendmentor.io/profile/srikantgudi)
-- [Rest Countries API](https://vercel.com/srikantgudi/rest-countries-api)
-- [Space Tourism App](https://vercel.com/srikantgudi/space-tourism-app)
+- [Rest Countries API](https://rest-countries-api-steel.vercel.app/)
+- [Space Tourism App](https://space-tourism-app-three.vercel.app/)
 
 ### 📫 Reach me @ *srikantgudi@gmail.com*
 
