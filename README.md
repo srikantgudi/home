@@ -7,8 +7,7 @@
   - WebAssembly
 
 ## 🌱 I’m currently learning:
-  - Rust+WebAssembly
-  - Golang
+  - SolidJs
 
 ### 📫 Reach me @ *srikantgudi@gmail.com*
 
