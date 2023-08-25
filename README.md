@@ -1,9 +1,10 @@
 # 👋 Hi, I’m @Srikant Gudi
 
 ## 👀 I’m interested in:
-  - Svelte/SvelteKit
+  - SvelteKit
   - GoLang
-  - Rust
+  - FastAPI
+  - Laravel
   - WebAssembly
 
 ## 🌱 I’m currently learning:
